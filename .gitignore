@@ -1,4 +1,4 @@
-renders/Ignore
+Ignore/
 *.o
 raytracer
 .DS_Store
