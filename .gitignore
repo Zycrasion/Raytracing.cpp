@@ -1,0 +1,4 @@
+renders/Ignore
+*.o
+raytracer
+.DS_Store
